@@ -1,0 +1,14 @@
+1. Read the train Dataset.
+2. Check missing values in df
+3. Seperate X and Y (Drop statistically insignificant)
+4. Cat Con Seperation for X
+5. Create Sklearn pipeline for feature selection (Ordinal)
+6. Find Mutual Info Scores and plot them (Do not select any columns) 
+7. Build the final sklearn pipeline (Onehotencoder)
+8. Algo Evaluation (Select Best model , Skip KNN and SVM)
+9. Hyperparameter tune the top model
+10. ROC AUC curve
+11. Predict the testing file (Id, Machine Failure, Prob)
+12. Check how many machines failed in testing file. 
+13. Submit GitHub Repo link and predictions.csv at utkarsh.etlhive@gmail.com
+14. Deadline for this project is 5th of November 2023 (Sunday)
